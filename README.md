@@ -1,24 +1,22 @@
 ## 🚀 Hi, I'm Pragati Yadav
 
-
 Welcome to my GitHub corner! 👩‍💻  
-I’m a passionate engineering student who’s actively learning, building, and growing in tech.  
+I’m a passionate engineering student who’s actively learning, building and growing in tech.  
 I enjoy turning ideas into simple, functional projects while strengthening my fundamentals step by step 🌱
 
 ---
 
 ## 🔍 About Me
 
-- 🎓 Second-year **B.Tech student (Electronics & Computer Science)**
-- 🌱 Currently learning **Web Development** to build real-world projects
-- 🚀 Aspiring **Software Engineer** | Open to Internships
-- 📍 Based in India
-- 🧠 I believe in learning by building small projects and improving them step by step.
+- 🎓 Third-year **B.Tech student (Electronics & Computer Science) at VIT Mumbai**
+- 🌱 Currently learning **Java, Data Structures & Algorithms**
+- 🚀 Open to Internships
+- 🧠 I believe in learning by building projects and improving my problem-solving skills step by step.
 - ⚡ Fun fact: **Debugging helps me understand code better 😄**
 
 ---
 
-## 🛠️ Tech Stack (Learning Phase)
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 <p align="left">
@@ -31,40 +29,26 @@ I enjoy turning ideas into simple, functional projects while strengthening my fu
 
 ### ⚙️ Tools & Technologies
 
-
 <p align="left">
-
-  <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-
-  <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-
-  <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-
-  <!-- Notion (DEVICON light version) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40"/>
-
-  <!-- Figma (DEVICON colored) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
 </p>
 
 ## 🌱 Currently Working On
-- Strengthening **Web Development fundamentals (HTML, CSS, JavaScript)**
-- Building **small practice projects**
-- Improving **problem-solving using C/C++ & Python**
+- Strengthening **Java and OOP fundamentals**
+- Research Paper Publishing.
+- Building **Projects**
+- Improving problem-solving and coding consistency
 
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pro19pragati&theme=github-compact" />
+  <img src="https://ghchart.rshah.org/pro19pragati" alt="Pragati's GitHub Contribution Chart" width="100%"/>
 </p>
-
----
-
-
 
 ## 📫 Let’s Connect!
 
@@ -73,5 +57,5 @@ I enjoy turning ideas into simple, functional projects while strengthening my fu
 
 ---
 
-> *“Learning one concept at a time, building one project at a time.”* 🌟  
+> *“Learning one concept at a time, solving one problem at a time.”* 🌟
 Let’s grow and build together 🚀
