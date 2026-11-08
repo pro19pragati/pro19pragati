@@ -43,13 +43,6 @@ I enjoy turning ideas into simple, functional projects while strengthening my fu
 - Building **Projects**
 - Improving problem-solving and coding consistency
 
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/pro19pragati" alt="Pragati's GitHub Contribution Chart" width="100%"/>
-</p>
-
 ## 📫 Let’s Connect!
 
 - 💼 LinkedIn: https://www.linkedin.com/in/pragati-yadav19/
